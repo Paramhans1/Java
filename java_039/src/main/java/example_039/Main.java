@@ -1,3 +1,4 @@
+// ABSTRACTION:
 /* Abstract Method
    - A methods that is declared without an implementation is called abstract method
    example: abstract void moveTo(int x, double y)

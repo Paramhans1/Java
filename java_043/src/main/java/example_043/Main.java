@@ -1,3 +1,4 @@
+// INHERITANCE
 // Inheritance in Interfaces: interfaces can extends another interfaces
 //                            interface can not implement another interface
 package example_043;

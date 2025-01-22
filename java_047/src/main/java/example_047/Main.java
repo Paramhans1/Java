@@ -1,3 +1,4 @@
+// ENUM:
 package example_047;
 
 public class Main {

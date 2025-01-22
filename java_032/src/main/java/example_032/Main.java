@@ -1,4 +1,4 @@
-/*
+/* INHERITANCE:
 Inheritance:    The act of deriving new things from existing thing
                 example: Use Rickshow ------------------------->  E - Rickshow
                 example: Use Car      ------------------------->  E - Car

@@ -1,4 +1,4 @@
-/*
+/* ENCAPSULATION:
 Access Modifiers: specifies where the attribute, methods are accessible
 1. Public: Accessible from anywhere in the program.
 2. Private: Accessible only within the class where it is declared.
@@ -42,8 +42,8 @@ class Employee{
 public class Main {
     public static void main(String[] args) {
         Employee harry = new Employee();
-        // harry.id = 45;               ---------------------> Throws an erroe due to private access modifier
-        // harry.name = "Harry";        ---------------------> Throws an erroe due to private access modifier
+        // harry.id = 45;               ---------------------> Throws an error due to private access modifier
+        // harry.name = "Harry";        ---------------------> Throws an error due to private access modifier
         harry.age = 25;
         harry.salary = 5000;
         harry.setId(45);
